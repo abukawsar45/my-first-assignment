@@ -1,0 +1,363 @@
+
+*{
+          margin: 0;
+          
+          
+}
+
+
+/* header section style */
+.header-section{
+          text-align: right;
+          background-image: url(../images/banner/banner1.png);
+          width: 1600px;
+          height: 809px;
+          left: 1632px;
+          top:808px;
+          margin: 0px;
+          padding: ;
+ 
+          
+}
+.title-part{
+          width: 525px;
+          height: 228px;
+          left: 846px;
+          top: 216px;
+
+         
+           font-weight: 700;
+           font-size: 65px;
+           line-height: 76px;
+           margin:0px 262px 24px 814px;
+           padding-top: 216px;
+}
+.description{
+          width: 494px;
+          height: 78px;
+          left: 876px;
+          top: 468px;
+
+          text-align: right;
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 26px;
+          color: #444343;
+          margin:0 262px 32px 844px;
+          
+          
+
+}
+/* Button */
+.btn{
+          width: 160px;
+          height: 64px;
+          left: 1210px;
+          top: 578px;
+
+          color: #fff;
+          background-color: #f15b22;
+          padding: 20px 25px;
+          border-radius: 5px;
+          border: none;
+          margin-top: 0px;
+          margin-right: 262px;
+          margin-bottom: 166px;
+          
+}
+/* body part */
+.body-part{
+          display: flex;
+}
+.banner-ph{
+          background-image: url(../images/myphoto.png);
+          background-repeat: no-repeat;
+          width: 569px;
+          height: 723px;
+          margin-left: 206px;
+          margin-top: 231px;
+     
+}
+.header-part > .title{
+          display: flex;
+}
+ul li{
+          list-style: none;
+}
+.banner-part{
+          width: 416px;
+          height: 400px;
+          top: 1078px;
+          left: 862px;
+
+          padding-left: 87px;
+          padding-top: 370px;
+          
+}
+/* title-style */
+.title{
+          width: 288px;
+          height: 94px;
+          font-weight: 700;
+          font-size: 40px;
+          line-height: 47px;
+          color: #151414;
+          padding-right: 450;
+          padding-bottom: 24px;
+
+
+}
+/* paragraph-style */
+.description2{
+          weight: 400;
+          height: 104px;
+          font-size: 16px;
+          line-height: 26px;
+          padding-top: 0px;
+         
+}
+.material-symbols-outlined{
+          color: green;
+         
+}
+/* main part css */
+.second-part{
+          margin: 0 230px;
+          height: 300px;
+          width: 1140px;
+}
+/* List data */
+
+.lst-data{
+          height:25px;
+          width: fit-content;
+          
+}
+/* My-Plan-Section */
+.plan-title{
+          font-family: work ;
+          font-size: 40px;
+          width: 180px;
+          height: 48px;
+          
+          padding:0px 710px 0px 470px ;
+          
+}
+.my-course{
+          display: flex;
+          
+          
+          height: 300px;
+}
+.imgg{
+          text-align: center;
+          height: 200px;
+          width: 418px;
+          padding-top: 55px;
+
+}
+.course-topic{
+          height: 35px;
+          font-size: 30px;
+
+          padding-top: 18px;
+          padding-bottom: 18px;
+}
+.position{
+          font-size: 25px;
+          height: 35px;
+}
+/* contact-section */
+
+.contact-ttitle{
+          
+          /* background-image: url(../images/watch.png); */
+          
+          /* height: 300;
+          width: 1140px; */
+          
+          image-resolution: 1140 300px;
+          background-image : linear-gradient(120deg,#22f13e 0%, rgba(180, 54, 8, 0)100%);
+          
+         border-radius: 5px;
+         /* margin: 0 20px; */
+         
+          
+          
+          background-repeat: no-repeat;
+}
+
+.tiitle-2{
+          padding: 60px 650px 24px 65px;
+          height: 95px;
+          width: 460px;
+      font-size: 40px;
+      color: white;
+      font-family: 'Work Sans';
+      font-style: normal;
+
+}
+/* find device */
+.find-dv{
+          width: 500px;
+          height: 720;
+          padding: 400px 380px 0px 380px ;
+          background-color: ;
+          align-items: center;
+
+}
+.ti-title{
+          font-size: 30px;
+          color: rgb(233, 71, 7);
+}
+.icn{
+          display: flex;
+          padding:10px;
+          text-align: center;
+         color: #0a42bb;
+         font-size: 18px;
+          align-items: center;
+}
+.icn-p{
+          
+          margin-left: 5px;
+          background-color: rgb(247, 247, 247);
+          background: right;
+          height: auto;
+          width: 23px;
+          display: flex;
+          font-size: 19px;
+}
+.ans-btn{
+
+          padding: 21px 36px;
+          border: none;
+          border-radius: 5px;
+          color: #F15B22;
+          font-size: 22px;
+          font-weight: 600;
+          color: rgb(197, 204, 202);
+          background-color: #22f17e;
+}
+.ans-btn2{
+          margin-top: 8px;
+          color: rgb(11, 194, 118);
+          background-color: #444343;
+          font-size: 17px;
+          padding:5px 25px;
+          border-radius: 5px;
+          border: none;
+}
+
+/* footer section */
+
+.llast12{
+          display:flex ;
+          background-color: #444343;
+          height: 577px;
+          width: 1600px;
+          margin-top: 224px;
+          border-radius: 9px;
+          
+}
+
+.footter6{
+          width: 325px;
+          height: 205px;
+          /* padding: 130px 251px 243px 1024px; */
+         
+
+} 
+.lft12{
+          height: 78px;
+          width: 485;
+          padding: 130px 220px 24px 208px;
+
+}
+
+.ttll{
+          font-size: 45px;
+          padding-bottom: 20px;
+          color: #fff;
+}
+.peraa3{
+          color: #fff;
+          
+          font-size: 19px;
+}
+.peraa5{
+          color: #fff;
+          font-size: 18px;
+}
+.peraa4{
+          color: #fff;
+          padding-top: 18px;
+}
+
+.laast2{
+       display: flex;   
+       
+      
+}
+.last{
+          width: 1600px;
+          height: 577px;
+          background-color: rgb(19, 17, 17);
+}
+
+
+.footer2{
+          padding: 130px 885px 130px 230px;
+          color: white;
+
+} 
+.titlle{
+          font-size: 30px;
+          padding-bottom: 15px;
+          color: aliceblue;
+}
+.pera3{
+          height: 78px;
+          width: 585;
+          padding-bottom: 24px;
+
+}
+.frm{
+          height: 64px;
+          width: 325px;
+          border-radius: 5px;
+          background-color: rgb(19, 17, 17);
+          color: #F15B22;
+}
+.con-info{
+           padding: 24px 0 16px 9;
+}
+
+.peraa5{
+          padding-top: 19px; */
+}  
+ .info{
+          padding: 32px 17px 130px 0; 
+} 
+ 
+.call-bttn{
+          
+          margin-left: 915px;
+          margin-bottom: 60px;
+          margin-left: 65px;
+          padding: 21px 36px;
+          border: none;
+          border-radius: 5px;
+          color: #F15B22;
+          font-size: 22px;
+          font-weight: 600;
+}
+
+.subs-bttn{
+margin-top: 16px;
+padding: 21px 36px;
+border: none;
+border-radius: 5px;
+color: #F15B22;
+font-size: 22px;
+font-weight: 600;}
