@@ -177,7 +177,7 @@ ul li{
           width: 1140px; */
           
           image-resolution: 1140 300px;
-          background-image : linear-gradient(120deg,#22f13e 0%, rgba(180, 54, 8, 0)100%);
+          background-image : linear-gradient(120deg,#22f13e 0%, rgba(180, 54, 8, 0)100%),url(../images/watch.png);
           
          border-radius: 5px;
          /* margin: 0 20px; */
